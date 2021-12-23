@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1505821407 source:c:\users\wbarr\desktop\agenda\main.cpp
+	<iostream>
+	"Pessoa.h"
+
+1505821907 c:\users\wbarr\desktop\agenda\pessoa.h
+	"Endereco.h"
+
+1505821884 c:\users\wbarr\desktop\agenda\endereco.h
+	<cstdio>
+	<iostream>
+
