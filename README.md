@@ -16,6 +16,4 @@ Este trabalho teve o objetivo de criar uma agenda com orientação a objeto.
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * **Thiago Emanuel** - *Trabalho Inicial* - [thgemanuel](https://github.com/thgemanuel)
